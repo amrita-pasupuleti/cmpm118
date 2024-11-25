@@ -1,0 +1,166 @@
+
+Epoch: 1
+[epoch:1, iter:50] Loss: 2.340 | Acc: 14.188% 
+[epoch:1, iter:100] Loss: 2.194 | Acc: 18.234% 
+[epoch:1, iter:150] Loss: 2.098 | Acc: 21.021% 
+[epoch:1, iter:200] Loss: 2.020 | Acc: 23.453% 
+[epoch:1, iter:250] Loss: 1.962 | Acc: 25.672% 
+[epoch:1, iter:300] Loss: 1.912 | Acc: 27.435% 
+[epoch:1, iter:350] Loss: 1.870 | Acc: 29.094% 
+Testing...
+Test Accuracy: 34.180%
+
+Epoch: 2
+[epoch:2, iter:50] Loss: 1.526 | Acc: 42.031% 
+[epoch:2, iter:100] Loss: 1.523 | Acc: 42.195% 
+[epoch:2, iter:150] Loss: 1.512 | Acc: 42.932% 
+[epoch:2, iter:200] Loss: 1.487 | Acc: 44.043% 
+[epoch:2, iter:250] Loss: 1.474 | Acc: 44.438% 
+[epoch:2, iter:300] Loss: 1.460 | Acc: 45.016% 
+[epoch:2, iter:350] Loss: 1.445 | Acc: 45.699% 
+Testing...
+Test Accuracy: 46.950%
+
+Epoch: 3
+[epoch:3, iter:50] Loss: 1.276 | Acc: 53.078% 
+[epoch:3, iter:100] Loss: 1.267 | Acc: 54.062% 
+[epoch:3, iter:150] Loss: 1.263 | Acc: 53.854% 
+[epoch:3, iter:200] Loss: 1.251 | Acc: 54.434% 
+[epoch:3, iter:250] Loss: 1.239 | Acc: 54.744% 
+[epoch:3, iter:300] Loss: 1.226 | Acc: 55.167% 
+[epoch:3, iter:350] Loss: 1.212 | Acc: 55.647% 
+Testing...
+Test Accuracy: 42.820%
+
+Epoch: 4
+[epoch:4, iter:50] Loss: 1.108 | Acc: 58.750% 
+[epoch:4, iter:100] Loss: 1.104 | Acc: 59.422% 
+[epoch:4, iter:150] Loss: 1.099 | Acc: 59.755% 
+[epoch:4, iter:200] Loss: 1.092 | Acc: 60.070% 
+[epoch:4, iter:250] Loss: 1.084 | Acc: 60.453% 
+[epoch:4, iter:300] Loss: 1.076 | Acc: 60.750% 
+[epoch:4, iter:350] Loss: 1.072 | Acc: 60.967% 
+Testing...
+Test Accuracy: 53.580%
+
+Epoch: 5
+[epoch:5, iter:50] Loss: 0.983 | Acc: 64.391% 
+[epoch:5, iter:100] Loss: 0.973 | Acc: 64.781% 
+[epoch:5, iter:150] Loss: 0.972 | Acc: 64.766% 
+[epoch:5, iter:200] Loss: 0.974 | Acc: 64.762% 
+[epoch:5, iter:250] Loss: 0.976 | Acc: 64.784% 
+[epoch:5, iter:300] Loss: 0.972 | Acc: 65.005% 
+[epoch:5, iter:350] Loss: 0.966 | Acc: 65.275% 
+Testing...
+Test Accuracy: 57.280%
+
+Epoch: 6
+[epoch:6, iter:50] Loss: 0.926 | Acc: 66.781% 
+[epoch:6, iter:100] Loss: 0.919 | Acc: 67.086% 
+[epoch:6, iter:150] Loss: 0.911 | Acc: 67.276% 
+[epoch:6, iter:200] Loss: 0.906 | Acc: 67.461% 
+[epoch:6, iter:250] Loss: 0.898 | Acc: 67.684% 
+[epoch:6, iter:300] Loss: 0.896 | Acc: 67.846% 
+[epoch:6, iter:350] Loss: 0.892 | Acc: 67.913% 
+Testing...
+Test Accuracy: 61.440%
+
+Epoch: 7
+[epoch:7, iter:50] Loss: 0.850 | Acc: 70.203% 
+[epoch:7, iter:100] Loss: 0.839 | Acc: 70.578% 
+[epoch:7, iter:150] Loss: 0.837 | Acc: 70.552% 
+[epoch:7, iter:200] Loss: 0.831 | Acc: 70.707% 
+[epoch:7, iter:250] Loss: 0.826 | Acc: 70.894% 
+[epoch:7, iter:300] Loss: 0.823 | Acc: 70.940% 
+[epoch:7, iter:350] Loss: 0.824 | Acc: 70.911% 
+Testing...
+Test Accuracy: 67.420%
+
+Epoch: 8
+[epoch:8, iter:50] Loss: 0.795 | Acc: 71.734% 
+[epoch:8, iter:100] Loss: 0.795 | Acc: 71.734% 
+[epoch:8, iter:150] Loss: 0.789 | Acc: 71.828% 
+[epoch:8, iter:200] Loss: 0.778 | Acc: 72.340% 
+[epoch:8, iter:250] Loss: 0.768 | Acc: 72.744% 
+[epoch:8, iter:300] Loss: 0.766 | Acc: 72.784% 
+[epoch:8, iter:350] Loss: 0.764 | Acc: 72.967% 
+Testing...
+Test Accuracy: 69.900%
+
+Epoch: 9
+[epoch:9, iter:50] Loss: 0.716 | Acc: 74.953% 
+[epoch:9, iter:100] Loss: 0.727 | Acc: 74.148% 
+[epoch:9, iter:150] Loss: 0.731 | Acc: 74.188% 
+[epoch:9, iter:200] Loss: 0.732 | Acc: 74.211% 
+[epoch:9, iter:250] Loss: 0.731 | Acc: 74.275% 
+[epoch:9, iter:300] Loss: 0.729 | Acc: 74.341% 
+[epoch:9, iter:350] Loss: 0.723 | Acc: 74.493% 
+Testing...
+Test Accuracy: 74.330%
+
+Epoch: 10
+[epoch:10, iter:50] Loss: 0.669 | Acc: 76.469% 
+[epoch:10, iter:100] Loss: 0.682 | Acc: 75.656% 
+[epoch:10, iter:150] Loss: 0.676 | Acc: 76.062% 
+[epoch:10, iter:200] Loss: 0.670 | Acc: 76.121% 
+[epoch:10, iter:250] Loss: 0.673 | Acc: 76.206% 
+[epoch:10, iter:300] Loss: 0.669 | Acc: 76.380% 
+[epoch:10, iter:350] Loss: 0.668 | Acc: 76.455% 
+Testing...
+Test Accuracy: 66.380%
+
+Epoch: 11
+[epoch:11, iter:50] Loss: 0.625 | Acc: 78.234% 
+[epoch:11, iter:100] Loss: 0.637 | Acc: 77.586% 
+[epoch:11, iter:150] Loss: 0.629 | Acc: 77.771% 
+[epoch:11, iter:200] Loss: 0.630 | Acc: 77.824% 
+[epoch:11, iter:250] Loss: 0.635 | Acc: 77.588% 
+[epoch:11, iter:300] Loss: 0.632 | Acc: 77.771% 
+[epoch:11, iter:350] Loss: 0.632 | Acc: 77.739% 
+Testing...
+Test Accuracy: 74.810%
+
+Epoch: 12
+[epoch:12, iter:50] Loss: 0.602 | Acc: 78.984% 
+[epoch:12, iter:100] Loss: 0.596 | Acc: 79.078% 
+[epoch:12, iter:150] Loss: 0.597 | Acc: 78.984% 
+[epoch:12, iter:200] Loss: 0.593 | Acc: 79.203% 
+[epoch:12, iter:250] Loss: 0.588 | Acc: 79.366% 
+[epoch:12, iter:300] Loss: 0.591 | Acc: 79.344% 
+[epoch:12, iter:350] Loss: 0.594 | Acc: 79.225% 
+Testing...
+Test Accuracy: 74.630%
+
+Epoch: 13
+[epoch:13, iter:50] Loss: 0.554 | Acc: 80.781% 
+[epoch:13, iter:100] Loss: 0.563 | Acc: 80.648% 
+[epoch:13, iter:150] Loss: 0.563 | Acc: 80.359% 
+[epoch:13, iter:200] Loss: 0.569 | Acc: 80.262% 
+[epoch:13, iter:250] Loss: 0.566 | Acc: 80.362% 
+[epoch:13, iter:300] Loss: 0.566 | Acc: 80.419% 
+[epoch:13, iter:350] Loss: 0.563 | Acc: 80.478% 
+Testing...
+Test Accuracy: 73.990%
+
+Epoch: 14
+[epoch:14, iter:50] Loss: 0.545 | Acc: 81.266% 
+[epoch:14, iter:100] Loss: 0.540 | Acc: 81.180% 
+[epoch:14, iter:150] Loss: 0.539 | Acc: 81.141% 
+[epoch:14, iter:200] Loss: 0.540 | Acc: 81.090% 
+[epoch:14, iter:250] Loss: 0.540 | Acc: 81.197% 
+[epoch:14, iter:300] Loss: 0.537 | Acc: 81.310% 
+[epoch:14, iter:350] Loss: 0.533 | Acc: 81.413% 
+Testing...
+Test Accuracy: 75.510%
+
+Epoch: 15
+[epoch:15, iter:50] Loss: 0.491 | Acc: 82.391% 
+[epoch:15, iter:100] Loss: 0.507 | Acc: 81.867% 
+[epoch:15, iter:150] Loss: 0.505 | Acc: 82.094% 
+[epoch:15, iter:200] Loss: 0.508 | Acc: 82.105% 
+[epoch:15, iter:250] Loss: 0.506 | Acc: 82.206% 
+[epoch:15, iter:300] Loss: 0.504 | Acc: 82.302% 
+[epoch:15, iter:350] Loss: 0.506 | Acc: 82.239% 
+Testing...
+Test Accuracy: 78.600%
+Training complete.
